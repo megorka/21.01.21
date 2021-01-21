@@ -8,7 +8,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             
-           foreach (int a in list)
+           foreach (int a in list) //сморя что нужно если строчное то вместо int string
            {
            Consle.WriteLine(a);
            }
