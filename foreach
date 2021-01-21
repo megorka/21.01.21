@@ -1,0 +1,18 @@
+using System;
+using System.Collections.Generic;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+           foreach (int a in list)
+           {
+           Consle.WriteLine(a);
+           }
+
+        }
+    }
+}
